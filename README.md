@@ -17,7 +17,7 @@
 
 ### Introduction
 
-![](img/hodor.png)
+![](img/hodor.jpg)
 
 ### Project structure
 
